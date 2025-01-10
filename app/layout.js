@@ -11,7 +11,7 @@ import 'swiper/css/free-mode';
 import {yantramanav} from '@/lib/font'
 export const metadata = {
     title: 'Team Arabia',
-    description: 'React Next Js Construction Template',
+    description: 'www.teamarabiaksa.com',
 }
 
 export default function RootLayout({ children }) {
